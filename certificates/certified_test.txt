@@ -1,0 +1,1 @@
+cube 350 VERIFIED mode=lrat solve=102s check=25s proof=591285550B cnf_sha256=B7DD35AE8E4A32D5
